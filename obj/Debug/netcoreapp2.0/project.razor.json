@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\maicol.genz\\Documents\\DotNetComGit\\testedotnet\\testedotnet.csproj",
+  "ProjectFilePath": "/home/osboxes/Documents/TesteGitDotnet/testedotnet/testedotnet.csproj",
   "TargetFramework": "netcoreapp2.0",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "MVC-2.0",
-    "LanguageVersion": "2.0",
-    "Extensions": [
-      {
-        "ExtensionName": "MVC-2.0"
-      }
-    ]
-  }
+  "Configuration": null
 }
